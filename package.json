@@ -1,0 +1,12 @@
+{
+  "name": "@arimuscorp/data-provider-crm",
+  "description": "Arimus CRM Data Provider",
+  "author": "Ryan Ogle",
+  "dependencies": {},
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "github:arimuscorp/data-provider-crm"
+  },
+  "version": "0.0.2"
+}
